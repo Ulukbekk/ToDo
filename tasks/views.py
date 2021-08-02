@@ -78,3 +78,6 @@ def register():
 
 def test():
     pass
+
+def asd():
+    pass
