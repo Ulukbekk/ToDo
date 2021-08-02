@@ -1,0 +1,30 @@
+#edit {
+    text-decoration: none;
+    color: green;
+}
+
+#edit:hover {
+    color: green;
+    opacity: 0.5;
+}
+
+#delete {
+    text-decoration: none;
+    color: red;
+}
+
+#delete:hover {
+    color: red;
+    opacity: 0.5;
+}
+
+#done {
+    text-decoration: none;
+    color: blue;
+}
+
+#done:hover {
+    color: blue;
+    opacity: 0.5;
+}
+
